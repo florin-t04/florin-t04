@@ -24,3 +24,4 @@
     -asm
 
 # contacts
+https://www.linkedin.com/in/trandafir-florin-8963b0293/

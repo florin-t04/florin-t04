@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**florin-t04/florin-t04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hello👋
+![](images/123.png)
+ 
+ # I'm a legal alien
+ # Passioned about:
+    -God
+    -music
+    -tkd
+    -computers
 
-Here are some ideas to get you started:
+# Programming languages
+## That I know: 
+    -c/c++
+    -html/css
+    -js
+    -python
+    -java
+## I'm curently learing them:
+    -java
+    -php
+## That I want to learn:
+    -c#
+    -asm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# contacts

@@ -2,10 +2,7 @@
 # hello👋
 ![Alt text](images/123.png)
 
-
- 
- ## I'm a legal alien
- born in ROM, but curently living in MD
+ born in ROM, but currently living in MD
 
  ## Passioned about:
     -God
@@ -22,9 +19,11 @@
     -python
     -java
    * I'm curently learing them:
+
     -java
     -php
    * What I want to learn:
+
     -c#
     -asm
 

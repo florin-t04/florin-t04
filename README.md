@@ -4,8 +4,10 @@
 
 
  
- # I'm a legal alien
- # Passioned about:
+ ## I'm a legal alien
+ born in ROM, but curently living in MD
+
+ ## Passioned about:
     -God
     -music
     -tkd

@@ -1,6 +1,6 @@
 
 # hello👋
-![Alt text](images/123.png)
+
 
  born in ROM, but currently living in MD
 
